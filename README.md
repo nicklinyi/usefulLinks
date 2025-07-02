@@ -5,3 +5,7 @@
 
 ### Productivity
 - Pomodoro timer: https://gnomepomodoro.org/
+
+### Photo
+- Change background: https://id-photo.cn/color/
+- image upscaler: https://www.photogrid.app/zh-cn/image-upscaler/

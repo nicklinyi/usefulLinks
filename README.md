@@ -9,3 +9,6 @@
 ### Photo
 - Change background: https://id-photo.cn/color/
 - image upscaler: https://www.photogrid.app/zh-cn/image-upscaler/
+
+### Plot
+- https://s-ink.org/gallery
